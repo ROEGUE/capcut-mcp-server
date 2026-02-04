@@ -1,6 +1,6 @@
 # CapCut MCP Server
 
-A professional Model Context Protocol (MCP) server for **CapCut Pro** video editing automation. This server enables AI assistants and applications to create and edit videos programmatically through CapCut's powerful editing capabilities.
+--A professional Model Context Protocol (MCP) server for **CapCut Pro** video editing automation. This server enables AI assistants and applications to create and edit videos programmatically through CapCut's powerful editing capabilities.
 
 ## 🎬 Features
 
